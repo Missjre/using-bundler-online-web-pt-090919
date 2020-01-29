@@ -2,7 +2,7 @@ source "https://rubygems.org"
 gem "hashie"
 gem "sinatra", "1.4.4"
 gem "octokit", "~>2.0"
-gem 'nokogiri', :git => 'login@example.com:some-user-account/some-private-gem.git'
+gem 
 
 gem "pry", :group => "development"
 
