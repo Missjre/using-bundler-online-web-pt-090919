@@ -7,6 +7,5 @@ gem "awesome_print", :git => 'https://github.com
 gem "pry", :groups => 
 [:development, :test]
 
-group :test do
 gem "rspec"
 end
